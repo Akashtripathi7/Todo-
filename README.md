@@ -11,32 +11,30 @@ For the pusrpose of styling I have used Semantic ui
 Create this project with virtual environment
 
 
->mkdir myproject
->cd myproject
->python3 -m venv venv
+>1. mkdir myproject
+>2. cd myproject
+>3. python3 -m venv venv
 
 Activate it
 
-'''
-venv\Scripts\activate
-'''
+>venv\Scripts\activate
+
 
 Install Flask
-'''
-pip install Flask
-pip install Flask-SQLAlchemy
-'''
+
+>1. pip install Flask
+>2. pip install Flask-SQLAlchemy
+
 
 Setting variables in the terminal
 
-'''
-set FLASK_APP = app.py
-set FLASK_ENV = developement
-'''
+
+>1. set FLASK_APP = app.py
+>2. set FLASK_ENV = developement
+
 
 
 Run the app
 
-'''
-flask run
-'''
+
+>flask run
