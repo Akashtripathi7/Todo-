@@ -4,9 +4,9 @@ Simple Flask Todo App using SQLAlchemy and SQLite database.
 For the pusrpose of styling I have used Semantic ui
 [semantic-ui](https://semantic-ui.com/)
 
-![Screenshot (344)](https://user-images.githubusercontent.com/68461661/139791026-83a00aaa-bbf4-43e9-969f-ca2981119fc3.png
+![Screenshot (344)](https://user-images.githubusercontent.com/68461661/139791026-83a00aaa-bbf4-43e9-969f-ca2981119fc3.png)
 
-### Setup)
+### Setup
 
 Create this project with virtual environment
 
