@@ -10,11 +10,11 @@ For the pusrpose of styling I have used Semantic ui
 
 Create this project with virtual environment
 
-'''
-mkdir myproject
-cd myproject
-python3 -m venv venv
-'''
+
+>mkdir myproject
+>cd myproject
+>python3 -m venv venv
+
 Activate it
 
 '''
